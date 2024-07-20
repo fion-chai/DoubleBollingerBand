@@ -1,1 +1,1 @@
-# double-bollinger
+# Trading with Double Bollinger Band
